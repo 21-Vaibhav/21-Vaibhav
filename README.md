@@ -6,7 +6,7 @@
 ## Socials
 
 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-Email: your.email@example.com
+Email: vaibhav.1si21is057@gmail.com
 
 ## Tech Stack
 
