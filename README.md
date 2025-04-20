@@ -11,16 +11,16 @@
 ## Tech Stack
 
 **Languages:**  
-C, C++, Python, JavaScript, TypeScript, HTML5  
+**C**, **C++**, **Python**, **JavaScript**, **TypeScript**
 
 **Frameworks & Tools:**  
-FastAPI, Firebase, Supabase, Prisma, JWT, Vite, MUI, Radix UI  
+**FastAPI**, **Firebase**, **Supabase**, **Prisma**, **JWT**, **Vite**, **MUI**, **Radix UI**
 
 **Cloud & DevOps:**  
-Azure, Vercel, GitHub Actions  
+**Azure**, **Vercel**, **GitHub Actions**
 
-**Databases:**  
-MongoDB, PostgreSQL
+**Databases and ORMs:**  
+**MongoDB**, **PostgreSQL**,**Firebase**,**Prisma**
 
 ## GitHub Stats
 
