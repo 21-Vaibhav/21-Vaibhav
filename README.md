@@ -1,13 +1,12 @@
 # About Me
--Hello there! Am Vaibhav, a final year undergrad in B.E. (IT)
+- Hello there! I'm Vaibhav, a final-year undergrad in B.E. (IT)  
 - Currently working on full-stack projects and backend systems  
 - Looking to collaborate on open source and impactful products  
 
 ## Socials
-
-=LinkedIn: [https://www.linkedin.com/in/2112vaibhav/](https://www.linkedin.com/in/2112vaibhav/)  
-=Email: vaibhav.1si21is057@gmail.com
-=Portfolio: [Link](https://21vaibhav.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/2112vaibhav/)  
+[Email](mailto:vaibhav.1si21is057@gmail.com)  
+[Portfolio](https://21vaibhav.vercel.app/)
 
 ## Tech Stack
 
