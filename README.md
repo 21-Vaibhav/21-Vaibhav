@@ -5,8 +5,9 @@
 
 ## Socials
 
-LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+LinkedIn: [https://www.linkedin.com/in/2112vaibhav/](https://www.linkedin.com/in/2112vaibhav/)  
 Email: vaibhav.1si21is057@gmail.com
+Portfolio: [Link](https://21vaibhav.vercel.app/)
 
 ## Tech Stack
 
